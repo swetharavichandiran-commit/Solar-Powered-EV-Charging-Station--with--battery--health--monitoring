@@ -25,7 +25,9 @@ This project is a smart Solar-Based EV Charging Station that charges an electric
 - Voltage Sensor
 - Current Sensor
 - Temperature Sensor
-- Git & GitHub
+ ## 📷 Project Images
+
+<img src="images/project.jpg" alt="Project Setup" width="700">
 
 ## 📱 Mobile Application
 
